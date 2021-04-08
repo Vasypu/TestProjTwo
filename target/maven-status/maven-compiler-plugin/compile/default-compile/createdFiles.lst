@@ -1,0 +1,5 @@
+service\config\SpringConfig.class
+service\controllers\PointController.class
+service\dao\PointDAO.class
+service\config\MySpringMvcDispatcherServletInititializer.class
+service\models\Point.class
