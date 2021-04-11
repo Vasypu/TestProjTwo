@@ -12,6 +12,7 @@ import javax.validation.Valid;
 
 @Controller
 @RequestMapping("/points")
+@ResponseBody
 public class PointController {
 
     private final PointDAO pointDAO;
